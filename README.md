@@ -2,15 +2,10 @@
 
 
 
-# Getting Started
 
+## Using bamazonCustomer.js
 
-
-
-
-### Using bamazonCustomer.js
-
-Running bamazonCustomer.js in node will start a CLI storefront that allows you to purchase products.
+Running bamazonCustomer.js in node will start a CLI store front that allows you to purchase products.
 
 The user will be presented with a list of products offered by the store.
 
@@ -20,9 +15,9 @@ Select the corresponding number to chose your product.  You will then be prompte
 
 ![Bamazon2](/images/Bamazon2.png)
 
-### Using bamazonManager.js
+## Using bamazonManager.js
 
-Running bamazonManager.js in node will the user to run a few different commands to check on and update the store database
+Running bamazonManager.js in node will allow the user to run a few different commands to check on and update the store database
 
 ![Bamazon3](/images/Bamazon3.png)
 
