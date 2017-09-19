@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "\"Amazon like CLI storefront App created to practice skills with node and Mysql.  App will take orders from customer and and the stock will be updated on the server.\"  ",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattsald48/Bamazon.git"
+  },
+  "author": "Matthew Saldana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattsald48/Bamazon/issues"
+  },
+  "homepage": "https://github.com/mattsald48/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3",
+    "mysql": "^2.14.1"
+  }
+}
