@@ -24,13 +24,15 @@ Select the corresponding number to chose your product.  You will then be prompte
 
 Running bamazonManager.js in node will the user to run a few different commands to check on and update the store database
 
+![Bamazon3](/images/Bamazon3.png)
+
 #### View Products for Sale
 
 Shows you all the information of the products in the database in this order
 
 item_id|Product|Department|Price|Stock
 
-![Bamazon3](/images/Bamazon3.png)
+![Bamazon7](/images/Bamazon7.png)
 
 
 #### View Low Inventory
