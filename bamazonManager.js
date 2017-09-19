@@ -9,8 +9,8 @@ var connection = mysql.createConnection({
 
 	user: "root",
 
-	password: "PreacherTheacher12",
-	database: "bamazonDB"
+	password: "",
+	database: ""
 
 
 });
@@ -52,7 +52,7 @@ function start(){
 	   			addInventory();
 
             }else if(ans.choices === "Add New Products"){
-	   			console.log("Under construction4");
+	   			//console.log("Under construction4");
 	   			addProduct();
 	   		};
 	   });
