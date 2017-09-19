@@ -8,7 +8,7 @@
 
 
 
-###Using bamazonCustomer.js
+### Using bamazonCustomer.js
 
 Running bamazonCustomer.js in node will start a CLI storefront that allows you to purchase products.
 
@@ -20,11 +20,11 @@ Select the corresponding number to chose your product.  You will then be prompte
 
 ![Bamazon2](/images/Bamazon2.png)
 
-###Using bamazonManager.js
+### Using bamazonManager.js
 
 Running bamazonManager.js in node will the user to run a few different commands to check on and update the store database
 
-####View Products for Sale
+#### View Products for Sale
 
 Shows you all the information of the products in the database in this order
 
@@ -33,19 +33,19 @@ item_id|Product|Department|Price|Stock
 ![Bamazon3](/images/Bamazon3.png)
 
 
-####View Low Inventory
+#### View Low Inventory
 
 Shows you all products that have stock less than or equal to 5
 
 ![Bamazon4](/images/Bamazon4.png)
 
-####Add to Inventory
+#### Add to Inventory
 
 Allows you to add inventory to your stock. You are prompted to enter the id of the product. If you do not know the id use View Products for Sale to check.  After entering the id you will be prompted to enter how much stock you would like to add.
 
 ![Bamazon5](/images/Bamazon5.png)
 
-####Add New Products
+#### Add New Products
 
 Allows you to add new products to the store.  You will be prompted to enter the product name, department, price, and quantity.
 
