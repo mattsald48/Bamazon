@@ -2,7 +2,6 @@
 
 
 
-
 ## Using bamazonCustomer.js
 
 Running bamazonCustomer.js in node will start a CLI store front that allows you to purchase products.
